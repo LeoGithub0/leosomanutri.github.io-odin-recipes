@@ -1,0 +1,39 @@
+h1 {
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.cooking {
+    display: block;
+    margin:auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+
+#contents {
+    margin-top: 1rem;
+    height: 150px;
+    border: 1px solid black;
+    text-align: left;
+    border-color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+.recipe {
+        padding: 5px;
+        font-size: larger;
+}
+
+body {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background: linear-gradient(180deg, #c4c4c4, #c4c4c4);
+}
